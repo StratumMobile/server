@@ -1,0 +1,106 @@
+[
+    {
+      "first_name": "Townsend",
+      "last_name": "Lucas",
+      "gender": "male",
+      "email": "townsendlucas@recrisys.com",
+      "phone": "+1 (952) 417-2102",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    },
+    {
+      "first_name": "Angelica",
+      "last_name": "Morrow",
+      "gender": "female",
+      "email": "angelicamorrow@recrisys.com",
+      "phone": "+1 (958) 550-3518",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    },
+    {
+      "first_name": "Dillard",
+      "last_name": "Turner",
+      "gender": "male",
+      "email": "dillardturner@recrisys.com",
+      "phone": "+1 (866) 404-2827",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    },
+    {
+      "first_name": "Larson",
+      "last_name": "Mejia",
+      "gender": "male",
+      "email": "larsonmejia@recrisys.com",
+      "phone": "+1 (952) 454-3028",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    },
+    {
+      "first_name": "Caitlin",
+      "last_name": "Rush",
+      "gender": "female",
+      "email": "caitlinrush@recrisys.com",
+      "phone": "+1 (818) 466-2342",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    },
+    {
+      "first_name": "Fern",
+      "last_name": "Hess",
+      "gender": "female",
+      "email": "fernhess@recrisys.com",
+      "phone": "+1 (807) 522-2413",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    },
+    {
+      "first_name": "Perry",
+      "last_name": "Young",
+      "gender": "male",
+      "email": "perryyoung@recrisys.com",
+      "phone": "+1 (914) 554-3053",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    },
+    {
+      "first_name": "William",
+      "last_name": "Flores",
+      "gender": "male",
+      "email": "williamflores@recrisys.com",
+      "phone": "+1 (976) 471-3505",
+      "pictures": [],
+      "stratum": {
+        "yays": 0,
+        "nays": 0,
+        "score": 0
+      }
+    }
+  ]
