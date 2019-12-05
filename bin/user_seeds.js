@@ -1,16 +1,15 @@
 const mongoose = require("mongoose");
 const User = require("../models/User");
-const seeds_json = require("./simple_seed.json")
+const seeds_json = require("../seeds/simple_seed.json")
 
 mongoose
-  .connect('mongodb://localhost/Stratum', {useNewUrlParser: true})
+  .connect('mongodb://localhost/Stratum', {useNewUrlParser: true, useUnifiedTopology: true})
   .then(x => {
     console.log(`Connected to Mongo! Database name: "${x.connections[0].name}"`)
   })
   .catch(err => {
     console.error('Error connecting to mongo', err)
   });
-
 
 User.deleteMany()
 .then(() => {
