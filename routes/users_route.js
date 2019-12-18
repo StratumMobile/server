@@ -3,6 +3,7 @@ const router = express.Router();
 const User = require('../models/User');
 
 router.get('/all_users', function(req, res, next) {
+    console.log('=========== ENTERING FUNCTION!!!!!')
     /*Get all users info from database*/
     User.find()
    .then(users => res.json(users))
